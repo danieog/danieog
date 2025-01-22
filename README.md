@@ -1,5 +1,12 @@
-## Hi there 👋
-
+## Hi there, I'm Danie👋✨
+- 🔭 I’m currently working on my own website :)
+- 🌱 I’m currently learning Javascript and Python
+- 👯 I’m looking to collaborate on any sort of projects!
+- 🤔 I’m looking for help with front-end development!
+- 💬 Ask me about Java
+- 📫 How to reach me: danieog@terpmail.umd.edu
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I was a former girl scout!
 <!--
 **danieog/danieog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
