@@ -1,9 +1,9 @@
 ## Hi there, I'm Danie👋✨
 - 🔭 I’m currently working on my own website :)
-- 🌱 I’m currently learning Javascript and Python
+- 🌱 I’m currently learning C!
 - 👯 I’m looking to collaborate on any sort of projects!
-- 🤔 I’m looking for help with front-end development!
-- 💬 Ask me about Java
+- 🤔 I’m looking for help with anything, I'm open!
+- 💬 Ask me about Java, HTML, CSS!
 - 📫 How to reach me: danieog@terpmail.umd.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I was a former girl scout!
